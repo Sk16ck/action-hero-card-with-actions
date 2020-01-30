@@ -29,7 +29,7 @@ html {
 }
 
 .action-tools-top .action-btn:hover {
-  background-color: #fff;
+  background-color: #f2f2f2;
   filter: none;
   box-shadow: 0 .1em .3em #000;
   color: #555;
